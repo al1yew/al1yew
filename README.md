@@ -9,7 +9,8 @@
 
 - 🌱 I am currently learning **Node JS**
 
-- 📫 How to reach me **vasifaliyev.baku@gmail.com** or **vasifja@code.edu.az**
+- 📫 How to reach me :
+**vasifaliyev.baku@gmail.com** or **vasifja@code.edu.az**
 
 
 <h3 align="left">Connect with me:</h3>
