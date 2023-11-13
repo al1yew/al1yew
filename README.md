@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vasif Aliyev</h1>
-<h3 align="center">A certified Full Stack Developer from Azerbaijan, Baku</h3>
+<h3 align="center">A certified Full Stack Developer from Poland, Krakow</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=al1yew&label=Profile%20views&color=0e75b6&style=flat" alt="al1yew" /> </p>
 
