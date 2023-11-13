@@ -9,19 +9,19 @@
 
 - 🌱 I’m currently learning **Node.Js and Next.Js**
 
-- 👨‍💻 All of my projects are available at [https://vasifaliyev.az](https://vasifaliyev.az)
+- 👨‍💻 All of my projects are available at [https://vasifaliyev.com](https://vasifaliyev.com)
 
-- 💬 Ask me about **React.JS, Asp.net WEB API or MVC applications, and whatever you want!**
+- 💬 Ask me about **React.JS, Asp.net, C#, and whatever you want!**
 
-- 📫 How to reach me **vasifaliyev.baku@gmail.com**
+- 📫 How to reach me **vasifaliyev.work@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/vasif-aliyev/](https://www.linkedin.com/in/vasif-aliyev/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/aliyev-vasif/](https://www.linkedin.com/in/aliyev-vasif/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vasif-aliyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vasif-aliyev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aliyev-vasif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vasif-aliyev" height="30" width="40" /></a>
 <a href="https://instagram.com/al1yew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="al1yew" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vasifja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vasifja" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vasifaliyev_baku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vasifja" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/al1yew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="al1yew" height="30" width="40" /></a>
 </p>
 
